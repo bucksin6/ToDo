@@ -42,6 +42,21 @@
           "node_modules/requirejs/require.js"
         ],
         "dependencies": [
+          {
+            "name": "aurelia-auth",
+            "path": "../node_modules/aurelia-auth/dist/amd",
+            "main": "aurelia-auth"
+          },
+          {
+            "name": "aurelia-fetch-client",
+            "path": "../node_modules/aurelia-fetch-client/dist/amd",
+            "main": "aurelia-fetch-client"
+          },
+          {
+            "name": "regenerator-runtime",
+            "path": "../node_modules/regenerator-runtime",
+            "main": "runtime-module"
+          },
           "aurelia-binding",
           "aurelia-bootstrapper",
           "aurelia-dependency-injection",
@@ -62,6 +77,17 @@
           "aurelia-router",
           "aurelia-task-queue",
           "aurelia-templating",
+          "moment",
+          {
+            "name": "flatpickr",
+            "path": "../node_modules/flatpickr/dist",
+            "main": "flatpickr",
+            "resources": [
+              "flatpickr.css",
+              "themes/dark.css",
+              "themes/material_blue.css"
+            ]
+          },
           "aurelia-templating-binding",
           {
             "name": "aurelia-templating-resources",

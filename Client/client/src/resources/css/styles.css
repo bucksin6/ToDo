@@ -1,0 +1,22 @@
+/** Home Page Styles **/
+.input-fields-div label {
+    margin-top: 10px;
+  }
+  
+  .button-wrapper {
+    margin-top: 10px;
+  }
+  
+  .centered-div {
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    padding:20px 30px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-shadow: 0 0 1px 0 rgba(0,0,0,0.5);
+  }
+  
+  .table-secondary {
+    color: #F03434;
+  }

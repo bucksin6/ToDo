@@ -1,0 +1,16 @@
+<template>
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="#">ToDo</a>
+        </div>
+      </div>
+    </nav>
+    <div class="container">
+    <h1>${message}</h1>
+    <compose show.bind="showList" view="./components/todoList.html"></compose>
+    <compose show.bind="!showList" view="./components/todoForm.html"></compose>
+    <button click.trigger="logout()">Logout</button>
+  </div>
+  </container>
+  </template>

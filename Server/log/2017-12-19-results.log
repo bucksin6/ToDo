@@ -1,0 +1,32 @@
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"10:06:50 PM"}
+{"level":"info","message":"mongoose connected to the database","timestamp":"10:06:50 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"10:09:06 PM"}
+{"level":"info","message":"Request from ::1","timestamp":"10:09:15 PM"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"10:41:18 AM"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"10:42:51 AM"}
+{"level":"info","message":"mongoose connected to the database","timestamp":"10:42:51 AM"}
+{"level":"info","message":"Request from ::1","timestamp":"10:43:53 AM"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"10:47:55 AM"}
+{"level":"info","message":"mongoose connected to the database","timestamp":"10:47:59 AM"}
+{"level":"info","message":"Request from ::1","timestamp":"10:48:17 AM"}
+{"level":"verbose","message":"Created a user d","timestamp":"10:48:17 AM"}
+{"level":"info","message":"Request from ::1","timestamp":"10:48:34 AM"}
+{"level":"info","message":"Request from ::1","timestamp":"10:50:48 AM"}
+{"level":"info","message":"Request from ::1","timestamp":"10:50:48 AM"}
+{"level":"verbose","message":"Get todo","timestamp":"10:50:48 AM"}
+{"level":"info","message":"Request from ::1","timestamp":"10:55:03 AM"}
+{"level":"verbose","message":"Get todo","timestamp":"10:55:03 AM"}
+{"level":"info","message":"Request from ::1","timestamp":"10:56:47 AM"}
+{"level":"verbose","message":"Created a todo Stop at bank","timestamp":"10:56:47 AM"}
+{"level":"info","message":"Request from ::1","timestamp":"10:57:42 AM"}
+{"level":"verbose","message":"Created a todo Go to store","timestamp":"10:57:42 AM"}
+{"level":"info","message":"Request from ::1","timestamp":"10:57:48 AM"}
+{"level":"verbose","message":"Get todo","timestamp":"10:57:48 AM"}
+{"level":"info","message":"Request from ::1","timestamp":"10:58:50 AM"}
+{"level":"verbose","message":"Update todos","timestamp":"10:58:50 AM"}
+{"level":"info","message":"Request from ::1","timestamp":"10:59:01 AM"}
+{"level":"verbose","message":"Delete todo undefined","timestamp":"10:59:01 AM"}
+{"level":"info","message":"Request from ::1","timestamp":"10:59:05 AM"}
+{"level":"verbose","message":"Get todo","timestamp":"10:59:05 AM"}
+{"level":"info","message":"Request from ::1","timestamp":"10:59:11 AM"}
+{"level":"verbose","message":"Update todos","timestamp":"10:59:11 AM"}
